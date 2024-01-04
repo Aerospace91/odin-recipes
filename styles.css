@@ -1,0 +1,17 @@
+/* styles.css */
+
+#page {
+    background-color: green;
+}
+
+.recipes {
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-size: 28px;
+    font-style: bold;
+}
+
+.header {
+    text-align: center;
+    font-size: 40px;
+}
