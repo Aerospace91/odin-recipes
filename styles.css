@@ -9,9 +9,19 @@
     color: black;
     font-size: 28px;
     font-style: bold;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .header {
+    background-color: peachpuff;
     text-align: center;
     font-size: 40px;
+    margin: 20px;
+    padding: 1px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
